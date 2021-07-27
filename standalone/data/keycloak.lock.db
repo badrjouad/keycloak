@@ -1,0 +1,6 @@
+#FileLock
+#Tue Jul 13 16:34:38 WEST 2021
+server=192.168.0.102\:52051
+hostName=hp
+method=file
+id=17aa0817c93a8eabd7072f3f64d1b18c11117b58eea
